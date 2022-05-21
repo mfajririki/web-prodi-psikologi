@@ -2,7 +2,7 @@
     <div class="row mx-auto" style="margin-top: 100px">
         <div class="col align-self-center">
             <p class="judul">PROGRAM STUDI PSIKOLOGI</p>
-            <P class="judul">FAKULTAS ILMU KOMPUTER</P>
+            <P class="judul">FAKULTAS PSIKOLOGI</P>
             <P class="judul">UNIVERSITAS BINA DARMA</P>
             <img src={{ asset('assets/images/Psikologi.png') }} alt="Psikologi Akreditasi" style="width: 200px"
                 class="text-end">
